@@ -1,4 +1,6 @@
 # Pluvia Compatibility Lists
+This repository contains different compatibility lists for different devices that were tested to run games through [Pluvia](https://github.com/oxters168/Pluvia)
+
 - Some of these settings are submitted by users
 - These settings might not work for you
 - The list may change as more submissions are accepted
