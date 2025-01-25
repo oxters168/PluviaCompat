@@ -8,6 +8,7 @@ This repository contains different compatibility lists for different devices tha
 | Devices |
 | --- |
 | [AYN Odin 2 Mini](https://github.com/oxters168/PluviaCompat/tree/main/AYN/Odin%202%20Mini) |
+| [Retroid Pocket 5](https://github.com/oxters168/PluviaCompat/tree/main/Retroid/Retroid%20Pocket%205) |
 
 Note: If you don't see your device on this list it does not necessarily mean that it is incompatible. It may just be untested yet.
 
