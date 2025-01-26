@@ -9,6 +9,7 @@ This repository contains different compatibility lists for different devices tha
 | --- |
 | [AYN Odin 2 Mini](AYN/Odin%202%20Mini) |
 | [Retroid Pocket 5](Retroid/Retroid%20Pocket%205) |
+| [Nokia G310 5G](HMD/Nokia/G310%205G) |
 
 Note: If you don't see your device on this list it does not necessarily mean that it is incompatible. It may just be untested yet.
 
