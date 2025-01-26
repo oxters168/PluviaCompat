@@ -1,4 +1,4 @@
-# Pluvia Compatibility List for
+# Pluvia Compatibility List for Nokia G310 5G
 | Game Name | Status | Issue(s) | Android Version(s) | Configuration | Submitted By |
 |-----------|--------|----------|-----------------|---------------|------------|
 | Iconoclasts | Playable w/config | Poor audio (latency and crackling) | Android 13 | Change audio driver to PulseAudio; Change Box64 Preset to 'Performance' | ShadowFungi |
