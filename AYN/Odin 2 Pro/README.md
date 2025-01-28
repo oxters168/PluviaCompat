@@ -4,3 +4,4 @@
 |-----------|--------|----------|-----------------|---------------|------------|
 | Police Stories | Perfect | Slow initial loading | Android 13 | Default | MightyX3N |
 | Police Stories: The Academy | Perfect | Slow initial loading | Android 13 | Default | MightyX3N |
+| Doom + Doom 2 | Perfect | - | Android 13 | Default | MightyX3N |
