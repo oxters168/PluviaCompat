@@ -4,4 +4,4 @@
 |-----------|--------|----------|-----------------|---------------|------------|
 | Police Stories | Perfect | Slow initial loading | Android 13 | Default | MightyX3N |
 | Police Stories: The Academy | Perfect | Slow initial loading | Android 13 | Default | MightyX3N |
-| Doom + Doom 2 | Perfect | Small Lag Spikes, But works | Android 13 | Default | MightyX3N |
+| Doom + Doom 2 | Perfect w/Config | Without Config: Lag Spikes but playable With Config: Almost Perfect | Android 13 | Box64: Performance | MightyX3N |
