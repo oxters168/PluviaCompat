@@ -58,4 +58,7 @@
 | Slain: Back From Hell | Not booting | - | Android 13 | Default | Belligerently |
 | Portal | Not booting | - | Android 13 | Default | Belligerently |
 | Half Life | Not booting | - | Android 13 | Default | Belligerently |
+| Brotato | Booting | Freeze at loading screen | Android 13 | Default | WarlockSyno |
+| Death Must Die | Booting | Freeze at loading screen | Android 13 | Default | WarlockSyno |
+
 
